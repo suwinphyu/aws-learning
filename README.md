@@ -5,7 +5,7 @@
 
 
 
-[**Lightsail instancelab (wordpress)**](Assignment%20List%20b695de2afdc943bebcedd4f46506d85f/Lightsail%20instancelab%20(wordpress)%2027def48a118d4ef99b4c55b0bda93c2c.md)
+[**Lightsail instancelab (wordpress)**](https://github.com/suwinphyu/aws-learning/blob/d31a7662e3c2df2e9c98a2c95c88321df0a42815/Assignment%20List/Lightsail%20instancelab%20(wordpress)%2027def48a118d4ef99b4c55b0bda93c2c.md)
 
 
 

@@ -1,4 +1,4 @@
-# Assignment List
+# AWS Learning Note
 
 
 [HOL S3 Static Hosting](https://github.com/suwinphyu/aws-learning/blob/d87e9e5d22158075b4603161b7b045c7131e17a4/Assignment%20List/HOL%20S3%20Static%20Hosting%2082f086ea1e524f218d021aba21108419.md)
